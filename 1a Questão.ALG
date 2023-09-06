@@ -1,15 +1,15 @@
-Algoritmo "primeira questão"
+Algoritmo "primeira questÃ£o"
 //
 //
-// Autor(a)    : Augusto Brandão
+// Autor(a)    : 
 // Data atual  : 30/08/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    valorA: real
    valorB: real
    valorC: real
    somaAB: real
-Inicio// Seção de Comandos, procedimento, funções, operadores, etc...
+Inicio// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    //
    Escreval ("Digite um Valor A: ")
    leia (valorA)
@@ -21,13 +21,13 @@ Inicio// Seção de Comandos, procedimento, funções, operadores, etc...
    leia (valorC)
    limpatela
    somaAB<- valorA + valorB
-   se(somaAB < valorC) então
-      escreva ("A + B é menor que C.")
+   se(somaAB < valorC) entÃ£o
+      escreva ("A + B Ã© menor que C.")
       fimse
    se (somaAB > valorC) entao
-      escreva ("A + B é maior que C.")
+      escreva ("A + B Ã© maior que C.")
        fimse
       se (somaAB = valorC) entao
-         escreva("A + B é igual a C.")
+         escreva("A + B Ã© igual a C.")
       fimse
 Fimalgoritmo
